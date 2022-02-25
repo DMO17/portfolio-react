@@ -1,5 +1,10 @@
 import React from "react";
+import { ProfileBanner } from "../components/ProfileBanner";
 
 export const Home = () => {
-  return <div>Home</div>;
+  return (
+    <>
+      <ProfileBanner />
+    </>
+  );
 };
