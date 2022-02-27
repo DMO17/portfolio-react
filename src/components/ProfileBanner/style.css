@@ -1,7 +1,6 @@
 .profile-container {
-  height: 10%;
+  height: 90vh;
   min-height: fit-content;
-  /* background-image: url("../../assets/screenshots/bg.jpg"); */
 }
 
 .btn {
@@ -15,11 +14,6 @@
 
 .btn:active {
   transform: translateY(2px);
-}
-
-.profile-details {
-  /* color: aliceblue; */
-  color: black;
 }
 
 .profile-description h1 {
