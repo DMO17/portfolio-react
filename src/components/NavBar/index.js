@@ -29,9 +29,15 @@ export const NavigationBar = () => {
             </Nav.Link>
             <Nav.Link
               className="nav-item active mx-4 text-center"
-              href="/contacts"
+              href="/contact-me"
             >
               Contact
+            </Nav.Link>
+            <Nav.Link
+              className="nav-item active mx-4 text-center"
+              href="/resume"
+            >
+              Resume
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
