@@ -24,9 +24,9 @@ export const Skills = () => {
                   Frontend Development
                 </div>
                 <div className="skills-content">
-                  <div className="skill-details ">
+                  <div className="skill-details">
                     <BsFillPatchCheckFill />
-                    <div className="h6">HTML</div>
+                    <div className="h6">React</div>
                   </div>
                   <div className="skill-details">
                     <BsFillPatchCheckFill />
@@ -34,15 +34,23 @@ export const Skills = () => {
                   </div>
                   <div className="skill-details">
                     <BsFillPatchCheckFill />
-                    <div className="h6">HTML</div>
+                    <div className="h6">CSS</div>
                   </div>
                   <div className="skill-details">
                     <BsFillPatchCheckFill />
-                    <div className="h6">HTML</div>
+                    <div className="h6">Handlebars</div>
                   </div>
                   <div className="skill-details">
                     <BsFillPatchCheckFill />
-                    <div className="h6">HTML</div>
+                    <div className="h6">Bootstrap</div>
+                  </div>
+                  <div className="skill-details">
+                    <BsFillPatchCheckFill />
+                    <div className="h6">Javascript</div>
+                  </div>
+                  <div className="skill-details">
+                    <BsFillPatchCheckFill />
+                    <div className="h6">Jquery</div>
                   </div>
                 </div>
               </div>
@@ -59,23 +67,35 @@ export const Skills = () => {
                 <div className="skills-content">
                   <div className="skill-details">
                     <BsFillPatchCheckFill />
-                    <div className="h6">HTML</div>
+                    <div className="h6">React</div>
                   </div>
                   <div className="skill-details">
                     <BsFillPatchCheckFill />
-                    <div className="h6">HTML</div>
+                    <div className="h6">Node.js</div>
                   </div>
                   <div className="skill-details">
                     <BsFillPatchCheckFill />
-                    <div className="h6">HTML</div>
+                    <div className="h6">Express.js</div>
                   </div>
                   <div className="skill-details">
                     <BsFillPatchCheckFill />
-                    <div className="h6">HTML</div>
+                    <div className="h6">MySQL</div>
                   </div>
                   <div className="skill-details">
                     <BsFillPatchCheckFill />
-                    <div className="h6">HTML</div>
+                    <div className="h6">NoSQL</div>
+                  </div>
+                  <div className="skill-details">
+                    <BsFillPatchCheckFill />
+                    <div className="h6">Graphql</div>
+                  </div>
+                  <div className="skill-details">
+                    <BsFillPatchCheckFill />
+                    <div className="h6">Mongodb</div>
+                  </div>
+                  <div className="skill-details">
+                    <BsFillPatchCheckFill />
+                    <div className="h6">REST API</div>
                   </div>
                 </div>
               </div>
