@@ -1,14 +1,7 @@
-body {
-  margin: 0;
-  overflow-y: overlay;
-  /* font-family: "Poppins Regular";
-  -moz-osx-font-smoothing: grayscale; */
-}
-
 .profile-container {
   height: 10%;
   min-height: fit-content;
-  background-image: url("../../assets/screenshots/bg.jpg");
+  /* background-image: url("../../assets/screenshots/bg.jpg"); */
 }
 
 .btn {
@@ -25,7 +18,8 @@ body {
 }
 
 .profile-details {
-  color: aliceblue;
+  /* color: aliceblue; */
+  color: black;
 }
 
 .profile-description h1 {
