@@ -37,3 +37,15 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.skills-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 2rem;
+}
+
+.skill-details {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
