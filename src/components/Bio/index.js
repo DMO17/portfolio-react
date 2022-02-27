@@ -5,10 +5,10 @@ import Container from "react-bootstrap/Container";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 
-export const AboutMe = () => {
+export const Bio = () => {
   return (
-    <div className="about-me-container text-center mt-3">
-      <div className="h1 mb-4">About Me</div>
+    <div className="about-me-container text-center mt-5">
+      <div className="h1 mb-5">About Me</div>
       <Container className="about-container p-3 ">
         <Row className="gx-5 gy-5">
           <Col sm={12} lg={5}>
