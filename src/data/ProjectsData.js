@@ -36,24 +36,32 @@ export const projectInfo = [
     title: "Pokedecks",
     projectImg:
       "https://media.istockphoto.com/vectors/seamless-question-mark-asking-questions-quiz-background-pattern-vector-id1335403960?s=612x612",
-    githubLink: "https://github.com/DMO17/food4U",
-    liveDemoLink: "https://food-4u.herokuapp.com/",
+    githubLink: "https://github.com/DMO17/pokemon-deck",
+    liveDemoLink: "#",
     projectType: projectTypes.react,
   },
   {
     title: "Flash Cards",
     projectImg:
       "https://media.istockphoto.com/vectors/seamless-question-mark-asking-questions-quiz-background-pattern-vector-id1335403960?s=612x612",
-    githubLink: "https://github.com/DMO17/food4U",
-    liveDemoLink: "https://food-4u.herokuapp.com/",
+    githubLink: "https://github.com/DMO17/flashcard-quiz-react",
+    liveDemoLink: "#",
     projectType: projectTypes.react,
   },
   {
     title: "Finance Price Tracker",
     projectImg:
       "https://media.istockphoto.com/vectors/seamless-question-mark-asking-questions-quiz-background-pattern-vector-id1335403960?s=612x612",
-    githubLink: "https://github.com/DMO17/food4U",
-    liveDemoLink: "https://food-4u.herokuapp.com/",
+    githubLink: "#",
+    liveDemoLink: "#",
+    projectType: projectTypes.react,
+  },
+  {
+    title: "Memory game",
+    projectImg:
+      "https://media.istockphoto.com/vectors/seamless-question-mark-asking-questions-quiz-background-pattern-vector-id1335403960?s=612x612",
+    githubLink: "https://github.com/DMO17/memory-game-react",
+    liveDemoLink: "#",
     projectType: projectTypes.react,
   },
   {
