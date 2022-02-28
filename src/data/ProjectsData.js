@@ -3,7 +3,6 @@ const projectTypes = {
   backEnd: "Back-end",
   frontEnd: "Front-end",
   react: "React",
-  htmlCssJs: "html/css/js",
 };
 
 export const projectInfo = [
@@ -39,7 +38,7 @@ export const projectInfo = [
       "https://media.istockphoto.com/vectors/seamless-question-mark-asking-questions-quiz-background-pattern-vector-id1335403960?s=612x612",
     githubLink: "https://github.com/DMO17/food4U",
     liveDemoLink: "https://food-4u.herokuapp.com/",
-    projectType: projectTypes.fullStack,
+    projectType: projectTypes.react,
   },
   {
     title: "Flash Cards",
@@ -115,7 +114,7 @@ export const projectInfo = [
       "https://github.com/DMO17/portfolio/blob/main/assets/screenshots/sound-art-smart.PNG?raw=true",
     githubLink: "https://github.com/DMO17/sound-art-smart/tree/main",
     liveDemoLink: "https://gingus55.github.io/sound-art-smart/",
-    projectType: projectTypes.htmlCssJs,
+    projectType: projectTypes.frontEnd,
   },
   {
     title: "Weather Dashboard",
@@ -123,7 +122,7 @@ export const projectInfo = [
       "https://github.com/DMO17/weather-dashboard/raw/main/assets/screenshots/web-preview-2.PNG",
     githubLink: "https://github.com/DMO17/weather-dashboard",
     liveDemoLink: "https://dmo17.github.io/weather-dashboard/",
-    projectType: projectTypes.htmlCssJs,
+    projectType: projectTypes.frontEnd,
   },
   {
     title: "Work Day Planner",
@@ -131,7 +130,7 @@ export const projectInfo = [
       "https://github.com/DMO17/portfolio/blob/main/assets/screenshots/work-day.PNG?raw=true",
     githubLink: "https://github.com/DMO17/work-day-planner",
     liveDemoLink: "https://dmo17.github.io/work-day-planner/",
-    projectType: projectTypes.htmlCssJs,
+    projectType: projectTypes.frontEnd,
   },
   {
     title: "Coding Quiz Challenge",
@@ -139,7 +138,7 @@ export const projectInfo = [
       "https://github.com/DMO17/portfolio/blob/main/assets/screenshots/code-quiz.PNG?raw=true",
     githubLink: "https://github.com/DMO17/coding-quiz-challenge",
     liveDemoLink: "https://dmo17.github.io/coding-quiz-challenge//",
-    projectType: projectTypes.htmlCssJs,
+    projectType: projectTypes.frontEnd,
   },
   {
     title: "Random Password Generator Js",
@@ -148,7 +147,7 @@ export const projectInfo = [
     githubLink: "https://github.com/DMO17/random-password-generator-javascript",
     liveDemoLink:
       "https://dmo17.github.io/random-password-generator-javascript/",
-    projectType: projectTypes.htmlCssJs,
+    projectType: projectTypes.frontEnd,
   },
   {
     title: "Semantic Html and Css",
@@ -156,6 +155,6 @@ export const projectInfo = [
       "https://github.com/DMO17/portfolio/blob/main/assets/images/web-page-preview.png?raw=true",
     githubLink: "https://github.com/DMO17/semantic-html-refactor",
     liveDemoLink: "https://dmo17.github.io/semantic-html-refactor/",
-    projectType: projectTypes.htmlCssJs,
+    projectType: projectTypes.frontEnd,
   },
 ];
