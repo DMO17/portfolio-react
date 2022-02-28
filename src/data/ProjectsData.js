@@ -6,7 +6,7 @@ const projectTypes = {
   htmlCssJs: "html/css/js",
 };
 
-const projectInfo = [
+export const projectInfo = [
   {
     title: "Food4U ",
     projectImg:
