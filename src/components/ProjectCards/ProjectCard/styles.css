@@ -17,6 +17,7 @@
 .image-container img {
   overflow: hidden;
   height: 250px;
+  object-fit: contain;
 }
 
 .box-container:hover {
