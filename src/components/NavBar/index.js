@@ -21,11 +21,8 @@ export const NavigationBar = () => {
             >
               About Me
             </Nav.Link>
-            <Nav.Link
-              className="nav-item active mx-4 text-center"
-              href="/projects"
-            >
-              Projects
+            <Nav.Link className="nav-item active mx-4 text-center" href="/work">
+              Work
             </Nav.Link>
             <Nav.Link
               className="nav-item active mx-4 text-center"

@@ -3,7 +3,7 @@ import React from "react";
 import { ProjectCards } from "../components/ProjectCards";
 import Container from "react-bootstrap/Container";
 
-export const Projects = () => {
+export const Work = () => {
   return (
     <Container>
       <ProjectCards />
