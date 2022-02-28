@@ -5,8 +5,6 @@ import { ProjectCard } from "./ProjectCard";
 import "./styles.css";
 
 export const ProjectCards = () => {
-  const [projectsType, setProjectType] = useState("Full-stack");
-
   const [projectArray, setProjectArray] = useState(projectInfo);
 
   const onclickReact = () => {

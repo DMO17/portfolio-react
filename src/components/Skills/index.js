@@ -103,8 +103,8 @@ export const Skills = () => {
           </Row>
         </Container>
       </div>
-      <div className="btn d-flex justify-content-center ">
-        <Button>
+      <div className=" mt-5 d-flex justify-content-center ">
+        <Button className="btn">
           CV <i class="fa-solid fa-download"></i>
         </Button>
       </div>
